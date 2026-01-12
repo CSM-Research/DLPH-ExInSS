@@ -1,0 +1,82 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="l5-956QJ4ClfxeEFcgL4">
+    <mxGraphModel dx="5127" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="40" width="860" height="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="40" width="860" height="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="40" width="860" height="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-5" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 50px; font-style: italic;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Domain Expert&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="20" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-6" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 50px; font-style: italic;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;SS Expert&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="20" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-7" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 50px; font-style: italic;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Industry Expert&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="20" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-8" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Provide broader vision of domain (P4)&lt;/li&gt;&lt;li&gt;Support comprehending research topic (P6)&lt;/li&gt;&lt;li&gt;Support refining previous knowledge (P7)&lt;/li&gt;&lt;li&gt;Facilitate review process (P23)&lt;/li&gt;&lt;li&gt;Provide different perspective view (P25)&lt;/li&gt;&lt;li&gt;Reduce the learning curve (P30)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=42;spacing=15;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-897" y="200" width="720" height="506" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-10" value="Knowledge Aquisition &amp;amp; Reasoning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontFamily=Times New Roman;rotation=-90;fontStyle=1;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="-1203.12" y="396.63" width="507.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-11" value="&lt;ul&gt;&lt;li&gt;Ensure review quality (P19, P31)&lt;/li&gt;&lt;li&gt;Support validating research work (P22, P24)&lt;/li&gt;&lt;li&gt;Increase rigor (P23)&lt;/li&gt;&lt;li&gt;Support mitigating bias (P25)&lt;/li&gt;&lt;li&gt;Alleviate uncertainty (P29)&lt;/li&gt;&lt;li&gt;Support search string validation (P34)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=42;spacing=15;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-897" y="740" width="720" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-12" value="Rigor &amp;amp; Validation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontFamily=Times New Roman;rotation=-90;fontStyle=1;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-1129.62" y="863.62" width="360.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-13" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Suggest studies (P1)&lt;/li&gt;&lt;li&gt;Definition or refinement of research goal (P3, P14, P24)&lt;/li&gt;&lt;li&gt;Support finding good examples (P4)&lt;/li&gt;&lt;li&gt;Support definition of protocol elements (P6, P14, P15)&lt;/li&gt;&lt;li&gt;Support choosing search string terms (P15)&lt;/li&gt;&lt;li&gt;Suggest publication venues (P32)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=42;spacing=15;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-897" y="1130" width="720" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-14" value="Research Framing &amp;amp; Design" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontFamily=Times New Roman;rotation=-90;fontStyle=1;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="-1183.5" y="1306.5" width="468" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-15" value="Knowledge Aquisition &amp;amp; Reasoning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontFamily=Times New Roman;rotation=-90;fontStyle=1;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="-307.5" y="404.13" width="502.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-16" value="&lt;ul&gt;&lt;li&gt;Support understanding SS process (P1, P6)&lt;/li&gt;&lt;li&gt;Answer doubts about SS process (P4)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=42;spacing=15;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-3.88" y="210" width="720" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-17" value="&lt;ul&gt;&lt;li&gt;Support in protocol definition (P1, P6, P12, P14, P16, P23, P29)&lt;/li&gt;&lt;li&gt;Support protocol execution (P14)&lt;/li&gt;&lt;li&gt;Support elaborate string and objectives (P19)&lt;/li&gt;&lt;li&gt;Support justify decisions taken (P23)&lt;/li&gt;&lt;li&gt;Facilitate practical aspects of SS (P24)&lt;/li&gt;&lt;li&gt;Support validate SS motivation (P34)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=42;spacing=15;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-3.8800000000000026" y="1130" width="720" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-18" value="Research Framing &amp;amp; Design" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontFamily=Times New Roman;rotation=-90;fontStyle=1;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="-290.38" y="1306.5" width="468" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-19" value="&lt;ul&gt;&lt;li&gt;Support in protocol validation (P7)&lt;/li&gt;&lt;li&gt;Avoid mistakes in the process (P11)&lt;/li&gt;&lt;li&gt;Increase team confidence (P14)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=42;spacing=15;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-3.88" y="746" width="720" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-20" value="Rigor &amp;amp; Validation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontFamily=Times New Roman;rotation=-90;fontStyle=1;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-231.64" y="863.73" width="350.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-21" value="Knowledge Aquisition &amp;amp; Reasoning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontFamily=Times New Roman;rotation=-90;fontStyle=1;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="583.75" y="405.88" width="499.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-22" value="&lt;ul&gt;&lt;li&gt;Strength research institutes collaboration (P4)&lt;/li&gt;&lt;li&gt;Support identify technical problems and enhancements (P5, P29)&lt;/li&gt;&lt;li&gt;Enrich data extraction (P11)&lt;/li&gt;&lt;li&gt;Support understanding research domain (P21, P28)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=42;spacing=15;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="886.12" y="210" width="720" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-23" value="&lt;ul&gt;&lt;li&gt;Support define goals (P1, P10, P35)&lt;/li&gt;&lt;li&gt;Support search string definition (P2)&lt;/li&gt;&lt;li&gt;Align research goals with industry needs (P3, P12)&lt;/li&gt;&lt;li&gt;Support applied research work (P3)&lt;/li&gt;&lt;li&gt;Support in protocol definition (P6, P7, P16, P18, P19)&lt;/li&gt;&lt;li&gt;Include another viewpoint of results (P13, P25)&lt;/li&gt;&lt;li&gt;Help focus on practical questions (P15, P19, P21, P22, P24, P32)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=42;spacing=15;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="886.12" y="1076.75" width="720" height="573.25" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-24" value="Research Framing &amp;amp; Design" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontFamily=Times New Roman;rotation=-90;fontStyle=1;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="543.72" y="1309.13" width="579.78" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-25" value="&lt;ul&gt;&lt;li&gt;Provide insights from previous works (P4)&lt;/li&gt;&lt;li&gt;Reduce bias (P8)&lt;/li&gt;&lt;li&gt;Reduce academic bias (P11)&lt;/li&gt;&lt;li&gt;Improve review quality (P19)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=42;spacing=15;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="886.12" y="750" width="720" height="301.75" as="geometry" />
+        </mxCell>
+        <mxCell id="lfNdEAeGuWoKlaKrE_0e-26" value="Rigor &amp;amp; Validation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontFamily=Times New Roman;rotation=-90;fontStyle=1;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="681.73" y="844.38" width="303.77" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
