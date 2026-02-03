@@ -1,13 +1,13 @@
-# Expert Involvement in Secondary Studies in Software Engineering
+# Do I need an Expert? An Overview of Expert Involvement in Secondary Studies
 
 This repository contains the replication package and supporting materials for the paper:
 
-> **“Expert Involvement in Secondary Studies: Impacts on Protocol Definition”**
+> **“Do I need an Expert? An Overview of Expert Involvement in Secondary Studies”**
 
 ## Abstract
 
-Secondary studies (SS) are widely used in software engineering due to their rigor and transparency. Several stages are challenging for novice researchers (e.g., protocol definition), while less problematic for experts. Although recommended, the expert involvement in SS remains underexplored.  
-This paper provides an overview of how expert involvement impacts SS, especially in protocol definition. A Delphi study with 35 novices and 5 experts, after two rounds, achieved consensus. Expert participation is essential to define the protocol, especially in the most sensitive elements (e.g., search string). Novice researchers noted a gain in confidence, improvement of protocol quality, and reduction of rework, while experts noted gains in rigor, bias reduction, and reproducibility.
+Secondary studies (SS) are widely used in software engineering due to their rigor and transparency. Several stages are challenging for novice researchers (e.g., protocol definition), while less problematic for experts. Although recommended, the effects of expert involvement in SS remain underexplored. This paper provides an overview of how expert involvement impacts SS, especially in the planning stage. A Delphi study with 35 novices and a survey with 5 experts were conducted. Expert involvement is essential to define the protocol, especially the most sensitive elements (e.g., search string). Novices and experts noted various benefits, including support for learning, enhancing research skills, and early involvement reduce rework and increases transparency. 
+
 
 ## Repository Contents
 
